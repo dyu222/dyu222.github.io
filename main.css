@@ -3,14 +3,27 @@ body {
   max-width: 50em;
   font-family: "Helvetica", sans-serif;
   line-height: 1.5;
+<<<<<<< HEAD
   color: rgb(51, 51, 51);
+=======
+
+  color: rgb(51, 51, 51);
+
+  padding: 4em 1em;
+  color: #555;
+
+>>>>>>> 0b99ef78dce91876622464f72df7b4e9f12ef5b1
   background-color: #c8aaf0;
   display: flex;
   justify-content: center;
   align-content: center;
   align-items: center;
   flex-direction: column;
+<<<<<<< HEAD
   height: auto;
+=======
+  height: 100vh;
+>>>>>>> 0b99ef78dce91876622464f72df7b4e9f12ef5b1
 }
 
 h1,
