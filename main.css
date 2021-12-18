@@ -1,24 +1,21 @@
 body {
-  margin: 0 auto;
-  max-width: 50em;
-  font-family: "Helvetica", sans-serif;
-  line-height: 1.5;
-  color: rgb(51, 51, 51);
-  background-color: #c8aaf0;
   display: flex;
   justify-content: center;
   align-content: center;
   align-items: center;
   flex-direction: column;
   height: auto;
+
+  background-color: #c8aaf0;
+  color: rgb(51, 51, 51);
+  margin: 0;
+  max-width: 50em;
+  font-family: "Helvetica", sans-serif;
+  line-height: 1.5;
+
 }
 
 h1,
 strong {
 color: #333;
-}
-
-ul{
-  list-style-type: none;
-  text-align: center;
 }
